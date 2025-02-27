@@ -44,7 +44,7 @@ To use and explore the dashboard, ensure you have the following:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/Healthcare-Analytics-Dashboard.git
+   git clone https://github.com/SdMdZahi7/Healthcare-Analytics-Dashboard.git
    ```  
 2. **Open the Power BI File**:  
    - Launch **Power BI Desktop**.  
