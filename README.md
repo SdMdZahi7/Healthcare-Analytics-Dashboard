@@ -119,7 +119,7 @@ Future improvements to this project may include:
 I’d love to hear your feedback or collaborate on enhancing this project! Here’s how you can get involved:
 - Raise an issue or suggest a feature in the repository.
 - Fork the repository and submit a pull request with your contributions.
-- Connect with me on [LinkedIn](https://linkedin.com/in/your-profile).  
+- Connect with me on [LinkedIn](https://linkedin.com/in/syed-muhammed-zahi/).  
 
 ---
 
